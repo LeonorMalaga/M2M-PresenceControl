@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">M2M-Presence Control</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!--                                      LAYOUT                                                -->
+    <!--comunication_m2m_dm -->
+    <string name="ipport_TextView">Ip:port:</string>
+    <string name="default_ipport_editText">192.168.173.1:8080</string>
+    <string name="device_TextView">device_name:</string>
+    <string name="default_device_editText">test</string>
+    <string name="datoTOsend_TextView">payload:</string>
+    <string name="default_datoTOsend">time=1234</string>
+    <string name="send_button">Send to DM2:</string>
+    <string name="get_button">get from DM:</string>
+    <string name="Data_send">Press to send data</string>
+    <string name="Data_get">Press to get device storage dates</string>
+</resources>
